@@ -2,9 +2,6 @@
 *(Coloque aqui o nome do seu projeto.)*
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(Coloque aqui uma breve descrição do seu projeto.)*
-
-**IMPORTANTE**: [**Cadastre seu projeto nesta planilha**](https://docs.google.com/spreadsheets/d/1bSb1-S9qOf46fNH8quyoFpcjcTuBMj_EdSPchOuFULY/edit?usp=sharing).
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
@@ -14,10 +11,9 @@ Equipe:
 - [Vitória de Souza](github.com/vitoriadesouza)
 
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   Documentação [(esse documento)](github.com/vitoriadesouza/OPES)
 -   Backend: [Repositório](https://github.com/TCC-OPES/backend-opes.git) e [Publicação](https://opes.class.fabricadesoftware.ifc.edu.br/)
--   Frontend: [Repositório](https://github.com/TCC-OPES/frontend-opes.git) e [Publicação](https://frontend-opes-nu.vercel.app/)
+-   Frontend: [Repositório](https://github.com/TCC-OPES/frontend-opes.git) e [Publicação](https://frontend-opes-1wdy.vercel.app/)
 
 
 # 1. Descrição do Projeto
