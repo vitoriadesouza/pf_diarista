@@ -13,7 +13,7 @@ Equipe:
 Links do projeto:
 -   Documentação [(esse documento)](github.com/vitoriadesouza/OPES)
 -   Backend: [Repositório](https://github.com/TCC-OPES/backend-opes.git) e [Publicação](https://opes.class.fabricadesoftware.ifc.edu.br/)
--   Frontend: [Repositório](https://github.com/TCC-OPES/frontend-opes.git) e [Publicação](https://frontend-opes-1wdy.vercel.app/)
+-   Frontend: [Repositório](https://github.com/TCC-OPES/frontend-opes.git) e [Publicação](https://opess.vercel.app/)
 
 
 # 1. Descrição do Projeto
